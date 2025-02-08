@@ -15,7 +15,7 @@ pub fn show() {
 
     // system {variable: padding alignment minimum.maximum}
     let letter = "a";
-    println!("{:あ^5.}", letter);
+    println!("{:あ^5}", letter);
 
     // example
     // print beautiful table
